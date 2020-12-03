@@ -28,7 +28,7 @@ h1{
 }
 .single{
     height: 300px;
-    width:32.5%;
+    width:32.3%;
     background: pink;
     border: 6.9px solid blue;
     float: left;
@@ -36,7 +36,7 @@ h1{
 }
 .single1{
    height: 300px;
-    width: 24.5%;
+    width: 24.3%;
     background: pink;
     border: 4.1px solid blue;
     float: left;
